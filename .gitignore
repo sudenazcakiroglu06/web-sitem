@@ -1,0 +1,19 @@
+# İşletim sistemi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editör
+.vscode/
+.idea/
+*.swp
+
+# Node / Python
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Yerel
+*.local
